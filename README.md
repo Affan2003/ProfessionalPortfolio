@@ -12,10 +12,10 @@ Unveil my professional journey and expertise in Computer Science through my GitH
 ## Snapshots:
 
 About Section
-![image](https://github.com/Affan2003/Professional-Portfolio/assets/97110821/aee21c69-2ec8-4366-a888-3c02a032603d)
+![image](https://github.com/Affan2003/ProfessionalPortfolio/assets/97110821/2b24b7ee-316c-4463-9d63-b1ea6e5efe8f)
 
 Education Section
-![image](https://github.com/Affan2003/Professional-Portfolio/assets/97110821/0224aef7-5c0f-4c14-a9bb-5043b399916b)
+![image](https://github.com/Affan2003/ProfessionalPortfolio/assets/97110821/fb78359f-207f-4556-919b-5fe0ebe4e538)
 
 Projects Section
-![image](https://github.com/Affan2003/Professional-Portfolio/assets/97110821/5a642669-2017-40fc-a56f-5c4c9c5c2de4)
+![image](https://github.com/Affan2003/ProfessionalPortfolio/assets/97110821/f29b4cb7-5e79-4010-beef-f124ea5b6022)
